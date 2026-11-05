@@ -1,0 +1,4 @@
+{"schemaVersion":1,"id":"theparallel","version":"${version}","name":"The Parallel - Terror Analógico",
+"description":"Criaturas y alucinaciones inspiradas en The Parallel de LC.","authors":["Tú"],"license":"All-Rights-Reserved","environment":"*",
+"entrypoints":{"main":["com.example.theparallel.TheParallel"],"client":["com.example.theparallel.TheParallelClient"]},
+"depends":{"fabricloader":">=0.16.0","minecraft":"~1.21.1","java":">=21","fabric-api":"*"}}
